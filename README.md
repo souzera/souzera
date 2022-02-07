@@ -17,14 +17,8 @@ Here are some ideas to get you started:
 
 <h4>Me chamo Matheus Barbosa, atualmente cursando Sistemas de Informação.</h4>
 
-<style>
-  .stats{
-    display:inline;
-  }
-</style>
-
 <div align="center">
-  <a href="https://linktr.ee/matheus.barbosa">
-  <img class="stats" height="170em" src="https://github-readme-stats.vercel.app/api?username=matxg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img class="stats" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matxg&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/matxg">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=matxg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matxg&layout=compact&langs_count=7&theme=dracula"/>
 </div>
