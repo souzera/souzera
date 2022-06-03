@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h4>Me chamo Matheus Barbosa, atualmente cursando Sistemas de Informação.</h4>
 
 <div align="center">
-  <a href="https://github.com/matxg">
+  <a href="https://github.com/tuezera">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matxg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=ffbb0b&icon_color=ffbb0b&text_color=fff&card_width=160"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matxg&layout=compact&langs_count=7&theme=tokyonight&title_color=ffbb0b&card_width=220"/>
 </div>
