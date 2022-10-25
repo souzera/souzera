@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <div align="center" style="flex">
   <a href="https://github.com/souzera">
-  <img height="100vh" src="https://github-readme-stats.vercel.app/api?username=souzera&theme=midnight-purple&show_icons=true"/>
-  <img height="100vh"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzera&layout=compact&theme=midnight-purple&hide=HTML,CSS">
+  <img height="150vh" src="https://github-readme-stats.vercel.app/api?username=souzera&theme=midnight-purple&show_icons=true"/>
+  <img height="150vh"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzera&layout=compact&theme=midnight-purple&hide=HTML,CSS">
 </div>
   
   <br>
