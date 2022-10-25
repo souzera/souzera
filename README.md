@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <h4>Me chamo Matheus Barbosa, atualmente cursando Sistemas de Informação.</h4>
 
-<div align="center">
+<div align="center" style="flex">
   <a href="https://github.com/souzera">
   <img width="60vh" src="https://github-readme-stats.vercel.app/api?username=souzera&theme=midnight-purple&show_icons=true"/>
-  <img height="100vh" width="30vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzera&layout=compact&theme=midnight-purple&hide=HTML,CSS">
+  <img height=1 width="30vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzera&layout=compact&theme=midnight-purple&hide=HTML,CSS">
 </div>
   
   <br>
