@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/souzera">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=souzera&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&title_color=ffbb0b&icon_color=ffbb0b&text_color=fff&card_width=160"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzera&layout=compact&langs_count=7&theme=tokyonight&title_color=ffbb0b&card_width=220"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=souzera&show_icons=true&theme=aura&include_all_commits=true&count_private=true&title_color=ffbb0b&icon_color=ffbb0b&text_color=fff&card_width=160"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzera&layout=compact&langs_count=7&theme=aura&title_color=ffbb0b&card_width=220"/>
 </div>
   
   <br>
