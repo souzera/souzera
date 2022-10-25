@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/souzera">
-  <img width="60em" src="https://github-readme-stats.vercel.app/api?username=souzera&theme=midnight-purple&show_icons=true"/>
-  <img width="30em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzera&layout=compact&theme=midnight-purple&hide=HTML,CSS">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=souzera&theme=midnight-purple&show_icons=true"/>
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzera&layout=compact&theme=midnight-purple&hide=HTML,CSS">
 </div>
   
   <br>
