@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div align="center" style="flex">
   <a href="https://github.com/souzera">
   <img height="150vh" src="https://github-readme-stats.vercel.app/api?username=souzera&theme=midnight-purple&show_icons=true"/>
-  <img height="150vh"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzera&layout=compact&theme=midnight-purple&hide=HTML,CSS">
+  <img height="150vh"  src="[https://github-readme-stats.vercel.app/api/top-langs/?username=souzera&layout=compact&theme=midnight-purple&hide=HTML,CSS](https://github-readme-stats.vercel.app/api/top-langs/?username=souzera&layout=compact&theme=midnight-purple&hide=CMake,C,HTML,CSS,C,C%2B%2B">
 </div>
   
   <br>
