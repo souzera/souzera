@@ -45,4 +45,5 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/matheus-bsouza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://www.behance.net/matheusBS" target="_blank"><img src="	https://aleen42.github.io/badges/src/behance.svg" target="_blank"></a>
    <a href="https://steamcommunity.com/id/oleitin/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+   <a href="https://www.behance.net/matheusBS" target="_blank"><img src="https://img.shields.io/badge/Behance-2639E4?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
 </div>
