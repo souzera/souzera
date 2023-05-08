@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <div align="left"> 
   <a href="https://github.com/souzera">
-  <img height="150vh" src="https://github-readme-stats.vercel.app/api?username=souzera&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)"/>
+  <img height="150vh" src="https://github-readme-stats.vercel.app/api?username=souzera&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="150vh"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzera&layout=compact&theme=midnight-purple&hide=CMake,C,HTML,CSS,C,C%2B%2B,Swift">
 </div>
   
