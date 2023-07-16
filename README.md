@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <div align="left"> 
   <a href="https://github.com/souzera">
   <img height="150vh" src="https://github-readme-stats.vercel.app/api?username=souzera&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="150vh"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzera&layout=compact&langs_count=20&theme=github_dark&exclude_repo=aruxo,stock.io&hide=CMake,Tcl,C%2B%2B,C,Kotlin,Objective-C,CSS,Swift,HTML,Shell,Powershell,Batchfile,Nushell,Yacc">
+  <img height="150vh"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzera&layout=compact&langs_count=20&theme=github_dark&exclude_repo=aruxo,stock.io&hide=CMake,Tcl,C%2B%2B,C,Kotlin,Objective-C,CSS,Swift,HTML,Shell,Powershell,Batchfile,Nushell,Yacc,Scss">
 </div>
   
 <div align="left"><br>
