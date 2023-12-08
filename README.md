@@ -1,4 +1,4 @@
-
+![](https://komarev.com/ghpvc/?username=souzera&color=006bed)
 
 <!--
 **matxg/matxg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">Olá Mundo!</h2>
+<h2 align="left">Olá Mundo!🌎</h2>
 <h3 align="left">Me chamo Matheus Barbosa, atualmente cursando Sistemas de Informação.</h3>
 
 <div align="left"> 
