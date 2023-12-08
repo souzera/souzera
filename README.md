@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=souzera&color=006bed)
 
 <!--
 **matxg/matxg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,18 +12,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 💼 Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
 -->
 
-<h2 align="left">Olá Mundo!🌎</h2>
-<h3 align="left">Me chamo Matheus Barbosa, atualmente cursando Sistemas de Informação.</h3>
+![](https://komarev.com/ghpvc/?username=souzera&color=006bed)
 
-<div align="left"> 
-  <a href="https://github.com/souzera">
-  <img height="150vh" src="https://github-readme-stats.vercel.app/api?username=souzera&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="150vh"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzera&layout=compact&langs_count=20&theme=github_dark&exclude_repo=stock.io,pipoca-barber-shop&hide=CMake,Tcl,C%2B%2B,C,Kotlin,Objective-C,CSS,Swift,HTML,Shell,Powershell,Batchfile,Nushell,Yacc,Scss">
-</div>
-  
+<h2 align="left">Olá Mundo!🌎</h2>
+
+<h3>Sobre mim</h3>
+
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando **Sistemas de Informação** na <a href="https://www.ufrpe.br/">UFRPE</a>.
+- 🌱 &nbsp; Aprendendo mais sobre **Desenvolvimento Front-End e UX/UI**.
+
 <div align="left"><br>
+  <h3>Minhas Skills</h3>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -37,6 +39,15 @@ Here are some ideas to get you started:
   <img align="center" alt="Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
 </div>
+
+<br>
+
+<div align="left"> 
+  <a href="https://github.com/souzera">
+  <img height="150vh" src="https://github-readme-stats.vercel.app/api?username=souzera&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150vh"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzera&layout=compact&langs_count=20&theme=github_dark&exclude_repo=stock.io,pipoca-barber-shop&hide=CMake,Tcl,C%2B%2B,C,Kotlin,Objective-C,CSS,Swift,HTML,Shell,Powershell,Batchfile,Nushell,Yacc,Scss">
+</div>
+  
   
   <br>
   
