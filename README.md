@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 # 🌎 Olá mundo, meu nome é Matheus Barbosa!
 ![](https://komarev.com/ghpvc/?username=souzera&color=006bed)
 
+
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
@@ -43,22 +44,16 @@ Here are some ideas to get you started:
 
 <br>
 
-<div align="left"> 
-  <a href="https://github.com/souzera">
+<div align="left">
   <img height="150vh" src="https://github-readme-stats.vercel.app/api?username=souzera&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="150vh"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzera&layout=compact&langs_count=20&theme=github_dark&exclude_repo=stock.io,pipoca-barber-shop&hide=CMake,Tcl,C%2B%2B,C,Kotlin,Objective-C,CSS,Swift,HTML,Shell,Powershell,Batchfile,Nushell,Yacc,Scss">
 </div>
-  
-  
-  <br>
-  
- <div align="left"> 
-  <!--<a href="https://www.instagram.com/matheuscreate" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-->
- 	<a href="https://www.twitch.tv/caaffezin" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/invite/rHQjKjQ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:ps.matheusb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-bsouza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://www.behance.net/matheusBS" target="_blank"><img src="	https://aleen42.github.io/badges/src/behance.svg" target="_blank"></a>
-   <a href="https://steamcommunity.com/id/oleitin/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-   <a href="https://www.behance.net/matheusBS" target="_blank"><img src="https://img.shields.io/badge/Behance-2639E4?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+
+<br>
+
+<div align="left">
+<a href="https://devsouzera.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portifólio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
+<a href = "mailto:ps.matheusb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/matheus-bsouza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.behance.net/matheusBS" target="_blank"><img src="https://img.shields.io/badge/Behance-2639E4?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
 </div>
