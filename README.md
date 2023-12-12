@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django"/>
 <img alt="NodeJS" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
 <img alt="Java" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img alt="Spring" height="32"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 <img alt="Flutter" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
 <img alt="Dart" height="32"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" />
 <img alt="Figma" height="32"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
