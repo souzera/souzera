@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 <img alt="Postgres" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react"/>
 <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django"/>
+<img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask"/>
 <img alt="NodeJS" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
 <img alt="Java" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img alt="Spring" height="32"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
