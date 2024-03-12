@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <div align="left">
   <img height="150vh" src="https://github-readme-stats.vercel.app/api?username=souzera&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="150vh"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzera&layout=compact&langs_count=20&theme=github_dark&hide=CMake,Tcl,C%2B%2B,C,Objective-C,CSS,Swift,HTML,Shell,Powershell,Batchfile,Nushell,Yacc,Scss">
+  <img height="150vh"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzera&layout=compact&langs_count=20&theme=github_dark&exclude_repo=pipoca-barber-shop&hide=CMake,Tcl,C%2B%2B,C,Objective-C,CSS,Swift,HTML,Shell,Powershell,Batchfile,Nushell,Yacc,Scss">
 </div>
 
 <br>
