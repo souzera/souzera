@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando **Sistemas de Informação** na <a href="https://www.ufrpe.br/">UFRPE</a>.
 - 🌱 &nbsp;Aprendendo mais sobre **Desenvolvimento Front-End e UX/UI**.
+<!-- - 💼 Trabalhando como {stack em que você trabalhar} na {empresa}. -->
 
 ## Minhas Skills
 <div>
