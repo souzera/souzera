@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 <img alt="Spring" height="32"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 <img alt="Flutter" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
 <img alt="Figma" height="32"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+<img alt="Selenium" height="32"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
 </div>
 
 <br>
