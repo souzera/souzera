@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Bacharel em **Sistemas de Informação** pela <a href="https://www.ufrpe.br/">UFRPE</a>.
-- 🌱 &nbsp;Aprendendo mais sobre **Desenvolvimento de Software**.
-<!-- - 💼 Trabalhando como {stack em que você trabalhar} na {empresa}. -->
+- 🌱 &nbsp;Aprendendo mais sobre **Arquitetura de Software**.
+- 💼 Trabalhando como **Desenvolvedor Fullstack**.
 
 ## Minhas Skills
 <div>
