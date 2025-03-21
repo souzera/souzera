@@ -31,16 +31,18 @@ Here are some ideas to get you started:
 <div>
 <img alt="Python" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python"/>
 <img alt="Javascript" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript"/>
+<img alt="Java" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img alt="Go" height="32" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/go/go-original.svg">
+<img alt="NodeJS" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
 <img alt="Typescript" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript"/>
-<img alt="Postgres" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 <img alt="React" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react"/>
 <img alt="Django" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django"/>
-<img alt="NodeJS" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-<img alt="Java" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img alt="Spring" height="32"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 <img alt="Flutter" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
-<img alt="Figma" height="32"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 <img alt="Selenium" height="32"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
+<img alt="Postgres" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+<img alt="Docker" height="32" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg">
+<img alt="Figma" height="32"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
 
 <br>
